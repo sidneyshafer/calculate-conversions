@@ -21,7 +21,7 @@ Opens when "Manage Conversions" is clicked on the main form.
 Opens when "Add" is clicked on the Manage Conversion Form.
 ![03_Add Conversion Form](https://github.com/sidneyshafer/calculate-conversions/assets/66838571/2f094dbc-715f-4065-a88b-aefd4ed42e3e)
 
-Fill out the form and click save to add a new conversion.
+Fill out the form and click "Save" to add a new conversion.
 ![04_Add New Conversion](https://github.com/sidneyshafer/calculate-conversions/assets/66838571/9508137f-3532-43ec-9311-035191d346e6)
 
 New conversion was added to Manage Conversion Form.
