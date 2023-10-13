@@ -1,5 +1,5 @@
 # Calculate Conversions
-Created a Windows Form Application with C# in Visual Studio.
+Created a Windows Form Application with C# in Visual Studio to calculate conversions.
 
 ## Application Usage in Microsoft's Visual Studio
 1. Download zip file and unzip folder content.
